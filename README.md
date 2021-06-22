@@ -33,7 +33,7 @@ When starting Matrixinator for the first time, it will inform you that no matric
 That is because Matrixinator didn't find any matrix files to load.
 Matrixinator will then proceed to ask you to input the name of a new matrix, its size and contents, then it will  display it.
 Matrixinator will show you the name of the matrix you just imputed and ask you if you want to create a new matrix or select an already loaded one.
-After selecting a matrix you will be asked what do you want to do with it. Your options are as follows:
+After selecting a matrix you will be asked what do you want to do with it. Your options are:
 
 1. Transpose.
 	- Find out what the transpose of the selected matrix is.
