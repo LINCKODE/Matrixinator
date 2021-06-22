@@ -24,7 +24,7 @@ Matrixinator needs java 16 to run, so make sure to have it installed.
 	- To start Matrixinator type `java -jar Matrixinator-X.X.X.jar` replacing the X with the version you downloaded.
 - Linux / MacOS:
 	- Open a terminal.
-	- Navigate to the folder you saved the Matrixinator jar using `cd` and `dir`.
+	- Navigate to the folder you saved the Matrixinator jar using `cd` and `ls`.
 	- To start Matrixinator type `java -jar Matrixinator-X.X.X.jar` replacing the X with the version you downloaded.
 
 ## How do you used it?
